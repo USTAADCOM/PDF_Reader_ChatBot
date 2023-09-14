@@ -29,3 +29,4 @@ To use the PDF_Reader_ChatBot tool:
 1. Ensure that you have installed the required dependencies and added the OpenAI API or  Hugging face hub key key to the `.env` file.
 2. UnComment the openapi library in requirements.txt and also uncomment the code for
 openapi functionality. 
+![Alt text](image.png)
