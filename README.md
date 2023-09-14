@@ -12,7 +12,7 @@ PDF_Reader_ChatBot allows the user upload his any pdf document and then allow th
   ```
 ## Project Structure
 ```bash
-AWS_Lambda_API
+PDF_Reader_ChatBot
    │   .gitignore
    │   app.py
    │   htmlTemplates.py
